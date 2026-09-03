@@ -2,8 +2,6 @@
 
 Command-line Python scripts for resizing images to a specific size in inches (converted to pixels via DPI), with options to resize a single image or an entire folder, and to either force exact dimensions or preserve the original aspect ratio.
 
-**Ready-to-use executables are available in [`/dist`](./dist) — no Python installation required.**
-
 ## Features
 
 Four standalone scripts, each with a matching packaged executable in `/dist`:
